@@ -158,7 +158,7 @@
     linebreak()
 
     if "email" in author [
-      _Email address:_ #link("mailto:" + author.email) \
+      #link("mailto:" + author.email) \
     ]
 
     if "url" in author [
