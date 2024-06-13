@@ -104,7 +104,7 @@
     align(horizon + center, 
       par(leading: 0.75em,
       upper(
-        text(size: 15pt, weight: 600, font: "Jost", title)
+        text(size: 15pt, weight: 600, font: header-font, title)
     )))
   }
 
